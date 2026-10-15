@@ -1,0 +1,9 @@
+# Entornos virtuales de Python
+venv/
+env/
+ENV/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
